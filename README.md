@@ -124,6 +124,8 @@ Push to README.md and push to github repository.
 ![woodindustry](woodindustry.png)
 ### home.html:
 ![home](home.png)
+### validator:
+![validator](valid.png)
 
 ## Result:
 Image-maps has been created successfully.
